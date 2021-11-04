@@ -157,7 +157,7 @@ sections:
         width: narrow
         margin:
           - mt-0
-          - mb-0
+          - mb-36
         padding:
           - pt-36
           - pb-36
