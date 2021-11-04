@@ -28,7 +28,7 @@ sections:
       caption: Image caption
     styles:
       self:
-        width: full
+        width: narrow
         margin:
           - mt-0
           - mb-0
