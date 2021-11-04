@@ -156,7 +156,7 @@ sections:
       self:
         width: narrow
         margin:
-          - mt-0
+          - mt-36
           - mb-36
         padding:
           - pt-36
