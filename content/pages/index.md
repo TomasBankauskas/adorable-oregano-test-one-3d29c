@@ -65,49 +65,6 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-  - type: MediaGallerySection
-    showCaption: true
-    colors: colors-a
-    backgroundWidth: full
-    elementId: ''
-    images:
-      - url: images/hilary-ouse.jpg
-        altText: Hilary Ouse
-        caption: Hilary Caption
-      - altText: lorem-ipsum
-        caption: People at desk
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
-        url: /images/about.jpg
-      - altText: lorem-ipsum
-        caption: Dude with flower
-        elementId: ''
-        styles:
-          self:
-            opacity: 100
-        type: ImageBlock
-        url: /images/hugh-saturation.jpg
-      - url: /images/dianne-ameter.jpg
-        altText: Diane Ameter
-        caption: Diane Caption
-        elementId: ''
-        type: ImageBlock
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: flex-end
-        justifyContent: flex-end
-    enableHover: true
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-c
