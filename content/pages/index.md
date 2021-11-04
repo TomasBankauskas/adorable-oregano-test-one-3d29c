@@ -63,4 +63,3 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
-  
