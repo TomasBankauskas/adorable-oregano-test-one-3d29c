@@ -164,7 +164,7 @@ sections:
           - pt-36
           - pb-36
           - pl-28
-          - pr-4
+          - pr-28
         alignItems: center
         justifyContent: center
         flexDirection: row
