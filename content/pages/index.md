@@ -35,6 +35,8 @@ sections:
         padding:
           - pt-12
           - pb-12
+          - pt-12
+          - pb-12
         alignItems: center
         justifyContent: center
         flexDirection: row
