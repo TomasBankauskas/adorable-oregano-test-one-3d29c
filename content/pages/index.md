@@ -167,7 +167,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: none
-        borderWidth: 0
+        borderWidth: 2
         borderStyle: none
         borderColor: border-neutral
       title:
