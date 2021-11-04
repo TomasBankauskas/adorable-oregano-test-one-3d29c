@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: HeroSection
+  - type: TestSection
     elementId: homepage-hero-1
     colors: colors-f
     backgroundWidth: full
