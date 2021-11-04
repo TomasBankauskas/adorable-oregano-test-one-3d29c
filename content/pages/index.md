@@ -166,7 +166,7 @@ sections:
         alignItems: flex-start
         justifyContent: center
         flexDirection: row
-        borderRadius: none
+        borderRadius: full
         borderWidth: 2
         borderStyle: solid
         borderColor: border-neutral
