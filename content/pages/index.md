@@ -154,7 +154,7 @@ sections:
       caption: Image caption
     styles:
       self:
-        width: narrow
+        width: full
         margin:
           - mt-36
           - mb-36
