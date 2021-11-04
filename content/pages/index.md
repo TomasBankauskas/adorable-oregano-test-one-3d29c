@@ -91,7 +91,7 @@ sections:
       caption: Image caption
     styles:
       self:
-        width: full
+        width: wide
         margin:
           - mt-0
           - mb-0
