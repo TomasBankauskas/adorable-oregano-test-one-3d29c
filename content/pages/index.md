@@ -164,7 +164,7 @@ sections:
           - pl-4
           - pr-4
         alignItems: flex-end
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: row
         borderRadius: none
         borderWidth: 0
