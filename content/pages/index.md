@@ -67,7 +67,7 @@ sections:
         justifyContent: flex-start
   - type: TestSection
     elementId: homepage-hero-1
-    colors: colors-a
+    colors: colors-c
     title: This Is A Big Hero Headline
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
